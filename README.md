@@ -1,23 +1,16 @@
 # 💫 About Me:
 🛰️ I’m currently working on<br>
-<br>
 3rd year CSE student @ Vignan University<br>
 Education platform, photography site & Flutter apps<br>
 <br>
 🤝 I’m looking to collaborate on<br>
-<br>
+
 Open-source & student-focused tools<br>
 <br>
-🙋‍♂️ I’m looking for help with<br>
-<br>
-Backend security & DSA<br>
-<br>
 🌱 I’m currently learning<br>
-<br>
 Flutter, Flask & DSA<br>
 <br>
 💬 Ask me about<br>
-<br>
 C / Python / Web dev / MySQL / Photography 📸<br>
 <br>
 ⚡ Fun fact<br>
