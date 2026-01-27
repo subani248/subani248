@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛰️ I’m currently working on<br>
+🛰️ I’m currently as a <br>
 3rd year CSE student @ Vignan University<br>
 Education platform, photography site & Flutter apps<br>
 <br>
