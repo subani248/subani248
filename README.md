@@ -132,11 +132,6 @@ Interactive dashboards using Python and Power BI for data visualization and insi
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subani248&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subani248&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=subani248&theme=tokyonight"/>
 </p>
 
