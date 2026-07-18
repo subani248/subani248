@@ -1,10 +1,3 @@
-# Hi there 👋, I'm Subani Shaik
-
-### 💻 Computer Science Engineering Student | ACM President | Aspiring Software Developer
-
-I'm a passionate **4th-year Computer Science & Engineering student** at **Vignan University** who enjoys building real-world applications and continuously learning new technologies. I love working on web development, Flutter applications, data science projects, and contributing to student technical communities.
-
----
 
 # 💫 About Me
 # Hi there 👋, I'm Subani Shaik
