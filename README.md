@@ -137,7 +137,7 @@ Interactive dashboards using Python and Power BI for data visualization and insi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subani248&theme=tokyonight"/>
 </p>
 
 ---
