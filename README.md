@@ -1,5 +1,3 @@
-
-# 💫 About Me
 # Hi there 👋, I'm Subani Shaik
 
 ### 💻 Computer Science Engineering Student | ACM President | Campus Coordinator | Aspiring Software Developer
