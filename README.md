@@ -1,191 +1,274 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/subani248/subani248/main/dark.svg" alt="Mahabu Subani Shaik Banner" width="100%" />
-</p>
+# Hi there 👋, I'm Subani Shaik
 
-<h1 align="center">Hi 👋, I'm Mahabu Subani Shaik</h1>
 
-<h3 align="center">
-AI & Full-Stack Developer | Building Intelligent Web Applications | Python • MERN • Data Science
-</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Python+Developer;Data+Science+Enthusiast;Building+Real-World+Projects;Always+Learning+New+Technologies" />
-</p>
+### 💻 Computer Science Engineering Student | ACM President | Campus Coordinator | Aspiring Software Developer
+
+
+
+I'm a passionate **4th-year Computer Science & Engineering student** at **Vignan University** who enjoys building real-world applications and continuously learning new technologies. I love working on web development, data science projects, and contributing to student technical communities through leadership and event management.
+
+
 
 ---
 
-## 🚀 About Me
 
-- 🎓 B.Tech Computer Science & Engineering (2023–2027)
-- 🏫 Vignan's Foundation for Science, Technology and Research
-- 🌍 Guntur, India
-- 💻 AI Engineer | Full Stack Developer
-- 🤖 Passionate about Artificial Intelligence & MERN Stack
-- 📊 Interested in Data Science and Analytics
-- 🌱 Currently learning Advanced AI and Cloud Technologies
-- 🚀 Building impactful real-world applications
+
+# 💫 About Me
+
+
+
+🛰️ **I'm currently**
+
+
+
+* 🎓 4th-year CSE Student at Vignan University
+
+* 👨‍💻 Building web applications, educational platforms, and data analytics projects
+
+* 👑 President of the ACM Student Chapter at Vignan University
+
+* 🌍 Campus Coordinator for **KLearn World** at Vignan University
+
+* 📸 Nature photography enthusiast
+
+
+
+🤝 **I'm looking to collaborate on**
+
+
+
+* Open-source projects
+
+* Student-focused applications
+
+* Full Stack Development projects
+
+* Community-driven technical initiatives
+
+
+
+🌱 **I'm currently learning**
+
+
+
+* Data Structures & Algorithms
+
+* Backend Development
+
+
+
+💬 **Ask me about**
+
+
+
+* Python
+
+* HTML, CSS & JavaScript
+
+* React.js
+
+* MySQL
+
+* Data Analytics
+
+* Photography 📸
+
+
+
+⚡ **Fun Fact**
+
+
+
+> I travel **120 km daily** and still code at night. 😅
+
+
 
 ---
 
-## 🛠 Tech Stack
 
-### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,java,mysql" />
-</p>
+# 🏆 Achievements
+
+
+
+### 👑 President – ACM Student Chapter
+
+
+
+* Leading the ACM student community.
+
+* Organizing technical events, coding competitions, workshops, and seminars.
+
+* Promoting collaborative learning and innovation among students.
+
+
+
+### 🌍 Campus Coordinator – KLearn World
+
+
+
+* Representing **KLearn World** at Vignan University.
+
+* Coordinating student engagement programs, technical initiatives, and campus activities.
+
+* Acting as a bridge between students and the KLearn World community.
+
+
+
+### 🏅 Department Recognition (Blazer Award)
+
+
+
+* Recognized for leadership, technical contributions, and active involvement in departmental activities.
+
+
+
+---
+
+
+
+# 🚀 Tech Stack
+
+
+
+### Programming Languages
+
+
+
+* Python
+
+* SQL
+
+
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
+
+
+* HTML5
+
+* CSS3
+
+* JavaScript
+
+* React.js
+
+
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+
+
+* Node.js
+
+* Express.js
+
+
 
 ### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+
+
+* MySQL
+
+* MongoDB
+
+
+
+### Data Science & ML
+
+
+
+* Pandas
+
+* NumPy
+
+* Matplotlib
+
+* Scikit-learn
+
+
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio" />
-</p>
+
+
+* Git
+
+* GitHub
+
+* VS Code
+
+* Power BI
+
+* Jupyter Notebook
+
+
 
 ---
+
+
 
 # 📂 Featured Projects
 
-### 🤖 AI Tools Directory
-A modern web platform that helps students discover AI tools with search, categories, and direct links.
+
+
+### 📚 Education Platform
+
+
+
+A student-focused platform for managing academic resources and learning materials.
+
+
+
+### 🌐 Portfolio Website
+
+
+
+A modern portfolio showcasing projects, certifications, and photography.
+
+
+
+### 📊 Data Analytics Dashboard
+
+
+
+Interactive dashboards using Python and Power BI for data visualization and insights.
+
+
 
 ---
 
-### 🚨 UrbanShield AI
-Smart city emergency response platform using AI, React, Node.js, MongoDB, and real-time mapping.
 
----
 
-### 🛰 CosmosX AI Space Explorer
-AI-powered NASA-inspired platform for exploring astronomy, Mars, APOD, and space information.
+# 📈 GitHub Stats
 
----
 
-### 📊 Sales Performance Analytics Dashboard
-Python + SQL + Power BI dashboard for analyzing business performance and sales trends.
-
----
-
-### 🏎 Formula One Analytics Dashboard
-Interactive dashboard for Formula 1 race analytics and insights.
-
----
-
-### 🎓 QR Attendance System
-Secure QR-based attendance management system built using the MERN Stack.
-
----
-
-### 💰 Online Fee Payment System
-Full-stack online payment and receipt management system.
-
----
-
-### 📱 Smart Emergency SOS App
-Flutter application with live location tracking and emergency alert functionality.
-
----
-
-# 📊 GitHub Stats
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=subani248&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subani248&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subani248&theme=tokyonight"/>
 
 </p>
 
----
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=subani248&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
-# 🐍 Contribution Graph
 
-> *(Replace this after configuring the GitHub Action from your setup guide.)*
 
-```md
-<p align="center">
-<img src="https://raw.githubusercontent.com/subani248/subani248/output/github-snake.svg"/>
-</p>
-```
+# 🌐 Connect With Me
 
----
 
-# 📈 Activity Graph
 
-<p align="center">
+* 💼 LinkedIn: www.linkedin.com/in/subani-shaik
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subani248&theme=tokyo-night&hide_border=true"/>
+* 📷 Instagram: [https://instagram.com/_shot.on.earth_](https://www.instagram.com/_shot.on.earth_/)
 
-</p>
+* 📧 Email:[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subanishaik248@gmail.com)
+
+
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=subani248&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 🌐 Connect with Me
-
-<p align="center">
-
-<a href="https://github.com/subani248">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/subani-shaik">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:subanishaik248@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-# 💡 Quote
-
-> **"Learning never stops. Every project is a step toward building intelligent solutions."**
-
----
-
-<p align="center">
-
-⭐ If you like my projects, consider giving them a star!
-
-</p>
