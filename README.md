@@ -1,31 +1,15 @@
+![Intro](./assets/hero.svg?v=1) 
+![About](./assets/about-life.svg?v=1) 
+![Stack](./assets/stack.svg?v=1) 
+![ID](./assets/id-dashboard.svg?v=1) 
+![Connect](./assets/connect.svg?v=1)
+
+
+
+
 <div align="center">
 
-  <!-- 1. HERO BANNER -->
-  <a href="https://github.com/subani248">
-    <img src="assets/hero.svg?v=1" alt="Mahabu Subani Shaik - Header Banner" width="100%" />
-  </a>
-
-  <br/><br/>
-
-  <!-- 2. ABOUT & LIFE INTERESTS CAROUSEL -->
-  <img src="assets/about-life.svg?v=1" alt="Capabilities &amp; Life Perspectives" width="100%" />
-
-  <br/><br/>
-
-  <!-- 3. TECHNICAL MATRIX & ORBITAL ECOSYSTEM -->
-  <img src="assets/stack.svg?v=1" alt="Technical Matrix &amp; Orbits" width="100%" />
-
-  <br/><br/>
-
-  <!-- 4. HANGING ID BADGE & VERIFIED DASHBOARD -->
-  <img src="assets/id-dashboard.svg?v=1" alt="Verified Academic &amp; Repository Dashboard" width="100%" />
-
-  <br/><br/>
-
-  <!-- 5. CONNECT SECTION (Pointing Character & Platforms) -->
-  <img src="assets/connect.svg?v=1" alt="Connect with Mahabu Subani Shaik" width="100%" />
-
-  <br/>
+  
 
   <!-- REAL CLICKABLE SOCIAL BUTTONS & LINKS (Required for GitHub) -->
   <p align="center">
